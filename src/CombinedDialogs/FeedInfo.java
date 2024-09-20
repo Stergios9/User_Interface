@@ -1,3 +1,5 @@
+package CombinedDialogs;
+
 import javax.swing.*;
 import java.awt.*;
 
