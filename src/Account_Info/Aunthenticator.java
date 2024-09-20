@@ -1,4 +1,4 @@
-package Account;
+package Account_Info;
 import javax.swing.*;
 
 public class Aunthenticator extends javax.swing.JFrame{
