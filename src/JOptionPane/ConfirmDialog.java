@@ -1,4 +1,4 @@
-package JDialog;
+package JOptionPane;
 
 import javax.swing.*;
 
